@@ -40,7 +40,7 @@ const Home = () => {
         </Typography>
 
         <Typography paragraph variant='h5'>
-          Hello From CI/CD
+          Hello From CI/CD Fixes
           <code>/src/initFirebase.ts</code>
         </Typography>
 
