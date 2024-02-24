@@ -40,7 +40,7 @@ const Home = () => {
         </Typography>
 
         <Typography paragraph variant='h5'>
-          Don't forget to configure your firebase settings in{' '}
+          Hello From CI/CD
           <code>/src/initFirebase.ts</code>
         </Typography>
 
