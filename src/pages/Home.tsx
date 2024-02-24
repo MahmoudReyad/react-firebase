@@ -36,7 +36,7 @@ const Home = () => {
       />
       <Wrapper>
         <Typography paragraph variant='h5'>
-          Welcome Mahmoud Reyad!
+          Welcome Mahmoud Reyad! 
         </Typography>
 
         <Typography paragraph variant='h5'>
