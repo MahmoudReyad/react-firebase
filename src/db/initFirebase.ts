@@ -12,7 +12,15 @@ import {
 } from 'firebase/auth'
 
 // the values to initialize the firebase app can be found in your firebase project
-const firebaseConfig = {}
+const firebaseConfig = {
+  apiKey: "AIzaSyDGeaswqB-nBSxANwt5OCW2xR0cF0IgN4c",
+  authDomain: "fir-cicd-45c10.firebaseapp.com",
+  projectId: "fir-cicd-45c10",
+  storageBucket: "fir-cicd-45c10.appspot.com",
+  messagingSenderId: "197028516365",
+  appId: "1:197028516365:web:eef3229e2a5567eb153b44",
+  measurementId: "G-HF9SL8133H"
+};
 
 const initFirebase = async () => {
   try {
